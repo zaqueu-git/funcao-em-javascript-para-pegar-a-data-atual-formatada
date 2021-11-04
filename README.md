@@ -1,2 +1,2 @@
-# fun-o-em-javascript-para-pegar-a-data-atual-formatada
+# funcao-em-javascript-para-pegar-a-data-atual-formatada
 Função em javascript para pegar a data atual formatada
